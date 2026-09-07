@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Compass / Sass
+.sass-cache/
+*.css.map
