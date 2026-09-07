@@ -1,4 +1,4 @@
-# Boccard 2020
+# Boccard – Carte de vœux 2020
 
 Carte de vœux en ligne du groupe Boccard pour l'année 2020. Une page unique
 diffuse une vidéo de vœux, servie dans la langue du navigateur (anglais par
